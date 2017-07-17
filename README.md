@@ -16,6 +16,7 @@ Quick and dirty installation (MacOSX)
 ```
 * `bundle install`
 * `rspec --init`
+* Install [chromedriver](https://sites.google.com/a/chromium.org/chromedriver/) to `/usr/local/bin`
 
 **From repo root run:**
 `rspec --format documentation spec/zapier.rb`
